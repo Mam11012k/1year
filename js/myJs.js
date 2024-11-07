@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Cảm ơn em vì 1 năm qua ạ!",
   text11:
     "Anh mong rằng chúng mình sẽ yêu nhau hơn, anh thì đỡ đần hơn, em thì ít khóc hơn. Chúng mình phải cố gắng thật nhiều để có thể mua được căn chung cư 3 phòng ngủ nhé ạ. Và quan trọng nhất là anh yêu em nhất thế giới này, em phải yêu anh nhất. Em không được yêu ai khác ngoài anh đâu! Mình yêu nhau 100 năm nhé ạ. Cảm ơn em rất nhiều ạ <3",
-  text12: "Okii lunn <3",
+  text12: "Anh yêu em 100 năm <3",
 };
 
 $(document).ready(function () {
